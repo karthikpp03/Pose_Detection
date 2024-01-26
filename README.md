@@ -4,9 +4,9 @@ This repository provides Python code for pose detection, allowing users to analy
 
 ## Sample Images
 
-<img src="pose1.png" alt="Dashboard Screenshot" width="600"/>
-<img src="pose2.png" alt="Dashboard Screenshot" width="600"/>
-<img src="pose3.png" alt="Dashboard Screenshot" width="600"/>
+<img src="pose 1.png" alt="Dashboard Screenshot" width="600"/>
+<img src="pose 2.png" alt="Dashboard Screenshot" width="600"/>
+<img src="pose 3.png" alt="Dashboard Screenshot" width="600"/>
 
 ## Features
 
