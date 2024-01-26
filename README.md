@@ -1,9 +1,8 @@
 # Pose Detection using Python
 
+This repository provides Python code for pose detection, allowing users to analyze and interpret human body poses in images or videos. Pose detection is a crucial aspect in computer vision applications, including human-computer interaction, gaming, and activity recognition.
 <p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-
-This repository provides Python code for pose detection, allowing users to analyze and interpret human body poses in images or videos. Pose detection is a crucial aspect in computer vision applications, including human-computer interaction, gaming, and activity recognition.
 
 ## Sample Images
 
